@@ -1,0 +1,10 @@
+for(i1=0;i1<3;i1++){
+    for(i2=0;i2<3;i2++){
+        if(i2%2==0){
+            document.write("★");
+        }else{
+            document.write("☆");
+        }
+    }
+    document.write("<br>");
+}
