@@ -1,3 +1,6 @@
-for(i1=1;i1<=5;i1++){
+for(i=1;i<=6;i++){
+    if(i==4){
+        <br>
+    }
     document.write("★");
 }
