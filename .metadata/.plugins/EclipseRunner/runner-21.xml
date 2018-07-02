@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category name="カテゴリーなし">
+<launchConfiguration bookmark="false" name="Android"/>
+<launchConfiguration bookmark="false" name="CheckLoadJDB"/>
+<launchConfiguration bookmark="false" name="CheckLoadJDBC"/>
+<launchConfiguration bookmark="false" name="CheckLoadJDBD"/>
+<launchConfiguration bookmark="false" name="Cupsele"/>
+<launchConfiguration bookmark="false" name="HelloWorld"/>
+<launchConfiguration bookmark="false" name="HelloWorld_project"/>
+<launchConfiguration bookmark="false" name="Human"/>
+<launchConfiguration bookmark="false" name="IPhone"/>
+<launchConfiguration bookmark="false" name="Inport"/>
+<launchConfiguration bookmark="false" name="Iphon"/>
+<launchConfiguration bookmark="false" name="ListSumple"/>
+<launchConfiguration bookmark="false" name="Main"/>
+<launchConfiguration bookmark="false" name="MapSample"/>
+<launchConfiguration bookmark="false" name="Programming"/>
+<launchConfiguration bookmark="false" name="SetSample"/>
+<launchConfiguration bookmark="false" name="Test"/>
+<launchConfiguration bookmark="false" name="Test (1)"/>
+<launchConfiguration bookmark="false" name="Test (2)"/>
+<launchConfiguration bookmark="false" name="Test (3)"/>
+</category>
+</runner>
