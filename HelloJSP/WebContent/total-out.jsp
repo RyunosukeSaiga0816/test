@@ -1,3 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
 <%@page errorPage="total-error.jsp" %>
 
 <%
@@ -6,5 +16,5 @@
 	int count=Integer.parseInt(request.getParameter("copunt"));
 	int delivery=Integer.parseInt(request.getParameter("delivery"));
 	%>
-	<%=price %>円x<%=count %>個+送料<%=delivery %>円=<a></a>
+	<%=price %>円×<%=count %>個+送料<%=delivery %>円=<a></a>
 	<%=price*count+delivery %>円
