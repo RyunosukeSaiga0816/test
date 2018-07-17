@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category name="カテゴリーなし">
+<launchConfiguration bookmark="false" name="Android"/>
+<launchConfiguration bookmark="false" name="CheckLoadJDB"/>
+<launchConfiguration bookmark="false" name="CheckLoadJDBC"/>
+<launchConfiguration bookmark="false" name="CheckLoadJDBD"/>
+<launchConfiguration bookmark="false" name="Cupsele"/>
+<launchConfiguration bookmark="false" name="Eclipse アプリケーション"/>
+<launchConfiguration bookmark="false" name="HelloJSP"/>
+<launchConfiguration bookmark="false" name="HelloWorld"/>
+<launchConfiguration bookmark="false" name="HelloWorld_project"/>
+<launchConfiguration bookmark="false" name="Human"/>
+<launchConfiguration bookmark="false" name="IPhone"/>
+<launchConfiguration bookmark="false" name="Inport"/>
+<launchConfiguration bookmark="false" name="Iphon"/>
+<launchConfiguration bookmark="false" name="ListSumple"/>
+<launchConfiguration bookmark="false" name="Main"/>
+<launchConfiguration bookmark="false" name="MapSample"/>
+<launchConfiguration bookmark="false" name="Programming"/>
+<launchConfiguration bookmark="false" name="SetSample"/>
+<launchConfiguration bookmark="false" name="Test"/>
+<launchConfiguration bookmark="false" name="Test (1)"/>
+<launchConfiguration bookmark="false" name="Test (2)"/>
+<launchConfiguration bookmark="false" name="Test (3)"/>
+<launchConfiguration bookmark="false" name="Webproj5"/>
+<launchConfiguration bookmark="false" name="Webproj5 (1)"/>
+<launchConfiguration bookmark="false" name="Webproj5 (3)"/>
+<launchConfiguration bookmark="false" name="Webproj5 (4)"/>
+<launchConfiguration bookmark="false" name="_home.jsp"/>
+<launchConfiguration bookmark="false" name="テンプレート"/>
+<launchConfiguration bookmark="false" name="ローカル・ホスト での Tomcat v8.0 サーバー"/>
+<launchConfiguration bookmark="false" name="ローカル・ホスト の Tomcat v8.0 サーバー"/>
+</category>
+</runner>

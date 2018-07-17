@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Webproj4
+Bundle-SymbolicName: Webproj4
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.internousdev.webproj4.action,
+ com.internousdev.webproj4.dao,
+ com.internousdev.webproj4.dto,
+ com.internousdev.webproj4.util

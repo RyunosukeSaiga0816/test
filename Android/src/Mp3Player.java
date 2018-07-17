@@ -2,15 +2,15 @@
 public class Mp3Player {
 
 	public void play(){
-		System.out.println("å†ç”Ÿ");
+		System.out.println("Ä¶");
 	}
 	public void stop(){
-		System.out.println("åœæ­¢");
+		System.out.println("’â~");
 	}
 	public void next(){
-		System.out.println("æ¬¡ã¸");
+		System.out.println("Ÿ‚Ö");
 	}
 	public void back(){
-		System.out.println("æˆ»ã‚‹");
+		System.out.println("–ß‚é");
 	}
 }

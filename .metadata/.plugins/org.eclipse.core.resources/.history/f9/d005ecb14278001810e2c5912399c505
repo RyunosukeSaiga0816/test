@@ -1,7 +1,0 @@
-package jp.co.internous.action;
-
-public class Java_HelloWorld {
-
-	String s=new String("Hello");
-	System.out.println(s);
-}

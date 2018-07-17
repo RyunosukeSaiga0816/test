@@ -1,0 +1,5 @@
+package cominternousdev.webproj.action;
+
+public class HelloStrutsAction {
+
+}

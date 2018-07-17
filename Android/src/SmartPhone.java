@@ -1,27 +1,27 @@
 public class SmartPhone extends Mp3Player {
 
 	public void play(){
-		System.out.println("å†ç”Ÿ(ãƒã‚¤ãƒ¬ã‚¾æ©Ÿèƒ½)");
+		System.out.println("Ä¶(ƒnƒCƒŒƒ]‹@”\)");
 	}
 	public void stop(){
-		System.out.println("åœæ­¢(ãƒã‚¤ãƒ¬ã‚¾æ©Ÿèƒ½)");
+		System.out.println("’â~(ƒnƒCƒŒƒ]‹@”\)");
 	}
 	public void next(){
-		System.out.println("æ¬¡ã¸(ãƒã‚¤ãƒ¬ã‚¾æ©Ÿèƒ½)");
+		System.out.println("Ÿ‚Ö(ƒnƒCƒŒƒ]‹@”\)");
 	}
 	public void back(){
-		System.out.println("æˆ»ã‚‹(ãƒã‚¤ãƒ¬ã‚¾æ©Ÿèƒ½)");
+		System.out.println("–ß‚é(ƒnƒCƒŒƒ]‹@”\)");
 	}
 	public void phone(){
-		System.out.println("é›»è©±");
+		System.out.println("“d˜b");
 	}
 	public void mail(){
-		System.out.println("ãƒ¡ãƒ¼ãƒ«");
+		System.out.println("ƒ[ƒ‹");
 	}
 	public void photo(){
-		System.out.println("å†™çœŸ");
+		System.out.println("Ê^");
 	}
 	public void internet(){
-		System.out.println("ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆ");
+		System.out.println("ƒCƒ“ƒ^[ƒlƒbƒg");
 	}
 }

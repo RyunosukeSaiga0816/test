@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: WebProj2
+Bundle-SymbolicName: WebProj2
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.internousdev.webproj2.action,
+ com.internousdev.webproj2.dao,
+ com.internousdev.webproj2.util

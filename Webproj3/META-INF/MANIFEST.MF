@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Webproj3
+Bundle-SymbolicName: Webproj3
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.internousdev.webproj3.action,
+ com.internousdev.webproj3.dao,
+ com.internousdev.webproj3.dto,
+ com.internousdev.webproj3.util

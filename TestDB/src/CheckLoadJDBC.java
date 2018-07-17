@@ -1,17 +1,19 @@
+
 public class CheckLoadJDBC {
 
-	public static void main(String[] args) throws
-	InstantiationException,IllegalAccessException{
-		// TODO è‡ªå‹•ç”Ÿæˆã•ã‚ŒãŸãƒ¡ã‚½ãƒƒãƒ‰ãƒ»ã‚¹ã‚¿ãƒ–
+	public static void main(String[] args)throws
+	InstantiationException,IllegalAccessException {
+		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
 		String msg="";
 
 		try{
-			Class.forName("com.mysql.jdbd.Driver").newInstance();
-			msg="ãƒ‰ãƒ©ã‚¤ãƒãƒ¼ã®ãƒ­ãƒ¼ãƒ‰ã«æˆåŠŸã—ã¾ã—ãŸ";
+			Class.forName("com.mysql.jdbc.Driver").newInstance();
+			msg="ƒhƒ‰ƒCƒo[‚Ìƒ[ƒh‚É¬Œ÷‚µ‚Ü‚µ‚½";
 		}catch(ClassNotFoundException e){
-			msg="ãƒ‰ãƒ©ã‚¤ãƒãƒ¼ã®ãƒ­ãƒ¼ãƒ‰ã«å¤±æ•—ã—ã¾ã—ãŸ";
+			msg="ƒhƒ‰ƒCƒo[‚Ìƒ[ƒh‚É¸”s‚µ‚Ü‚µ‚½";
 		}
 		System.out.println(msg);
+
 	}
 
 }
