@@ -4,7 +4,7 @@ public class LoginDTO {
 	private String loginId;
 	private String loginPassword;
 	private String userName;
-	private boolean loginFig=false;
+	private boolean loginFlg=false;
 
 	public String getLoginId(){
 		return loginId;
@@ -24,11 +24,11 @@ public class LoginDTO {
 	public void setUserName(String userName){
 		this.userName=userName;
 	}
-	public boolean getLoginFig(){
-		return loginFig;
+	public boolean getLoginFlg(){
+		return loginFlg;
 	}
-	public void setLoginFig(boolean loginFig){
-		this.loginFig=loginFig;
+	public void setLoginFlg(boolean loginFlg){
+		this.loginFlg=loginFlg;
 	}
 
 }
