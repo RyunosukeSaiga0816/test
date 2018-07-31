@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 		<meta http-equiv="Content-Style-Type" content="text/css"/>
 		<meta http-equiv="Content-Script-Type" content="text/javascript"/>
 		<meta http-equiv="imagetoolbar" content="no"/>
@@ -15,7 +15,7 @@
 		<style type="text/css">
 
 			/*========TAG LAYOUT========*/
-			budy{
+			body{
 				margin:0;
 				padding:0;
 				line-height:1.6;
@@ -67,7 +67,7 @@
 			<div>
 				<h3>ユーザー登録が完了致しました。</h3>
 				<div>
-					<a href='>s:url action="HomeAction"/>'>ログインへ</a>
+					<a href='<s:url action="HomeAction"/>'>ログインへ</a>
 				</div>
 			</div>
 		</div>

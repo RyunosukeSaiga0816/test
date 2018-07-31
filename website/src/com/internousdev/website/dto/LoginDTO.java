@@ -8,7 +8,7 @@ public class LoginDTO {
 	public String getLoginId(){
 		return loginId;
 	}
-	public void setLoginid(String loginId){
+	public void setLoginId(String loginId){
 		this.loginId=loginId;
 	}
 	public String getLoginPassword(){

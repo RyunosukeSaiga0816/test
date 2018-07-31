@@ -4,9 +4,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 		<meta http-equiv="Content-Style-Type" content="text/css"/>
-		<meta http-equiv="Content-Script-Type" content="text/java.script"/>
+		<meta http-equiv="Content-Script-Type" content="text/javascript"/>
 		<meta http-equiv="imagetoolbar" content="no"/>
 		<meta name="description" content=""/>
 		<meta name="keywords" content=""/>
@@ -30,7 +30,7 @@
 				margin:0 auto;
 			}
 
-			/*========ID LAYOUT========:/
+			/*========ID LAYOUT========*/
 			#top{
 				width:780px;
 				margin:30px auto;
@@ -93,6 +93,7 @@
 								<input type="text" name="userName" value=""/>
 							</td>
 						</tr>
+						<s:submit value="登録"/>
 					</s:form>
 				</table>
 				<div>
